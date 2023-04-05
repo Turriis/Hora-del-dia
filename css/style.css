@@ -25,3 +25,22 @@ footer{
     font-style: normal ;
 
 }
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    display: block;
+    margin: auto;
+
+}
+
+#menssagem{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: blue;
+
+}
